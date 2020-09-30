@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ItisHelpSection</string>
+    <string name="text_help">Помощь</string>
+    <string name="text_decription">ОКАЗАНИЕ ПОМОЩИ ВОДИТЕЛЯМ АВТОТЕХНИКИ КАМАЗ</string>
+    <string name="text_phone_sentence">(звонок по России бесплатный)</string>
+    <string name="text_phone_number">8-800-555-00-99</string>
+    <string name="text_sugg1">Эвакуация автотехники.</string>
+    <string name="text_sugg2">Помощь в вопросах, на которые не смог ответить дилер.</string>
+    <string name="text_sugg3">Оцека качества сервиса.</string>
+    <string name="text_webSite">Сайт www.kamaz.ru</string>
+</resources>
